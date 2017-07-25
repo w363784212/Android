@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1998e4f447fbf0194f39a12f3010d1f4f598667f">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxjava-computation-expressions-0.21.1_c442a51082e0506dcf3e31f90c9db47a30164e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\dji_gson.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="729a9cf81838d286b6098dc9c33d264d5db48a26">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji_gson_beadd5da12e0fcf396c4a504699d33e4355d5d9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03773badcb9e99ad699db657fa0e20cafbf774ef">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\okhttp-3.2.0_58406abc4fb846b135904eb769ec3a02d6725651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56caaeea09d3e406f6160972ff5d3e6c0e6f139b">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\converter-gson-2.0.1_be4750e02d167f5e0e8681a88b6657e90b7f467b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\sqlbrite-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80411084d9962ab5b48b274bb4b49e063095535a">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\sqlbrite-0.6.2_ffb3bbd0e844265d8152c8abd8c164a8bd064e34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3c8456bf2200f69d3e23b49ee16c028f6a8e6038\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\sqlcipher.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372b3cc280b8ef1d8079ef984aa838b78bfe9aa0">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\sqlcipher_cd149457173fe7666b9b0aa1d5ecb6e1b3e7d8c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\rxjava-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4f11e8e7dd89f5f87e5d81000582eabb071da91">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxjava-1.1.2_579d0441522a479dae5b83c6f33c2b7ae8ef1c66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc54e68ea5a1410ba9889536ab3100e36d2014aa">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\Java-WebSocket-1.3.0_1dc57c1fbb95380f34acd8dfa12b12ab5fc644de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\dji_eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91a5399115cedf41ebd53be7c96e424ac3aed1a8">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji_eventbus_0e02fa8bbe115b5ad0fe1a4879519fb77ed660c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\dji-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6171cf94a3429400c9ebbe5f9b721d0b8de8c744">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\dji-sdk_f62f6bc4bdf7326f2260f4abf92fad307d06b315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="243b8f70aa5bd2946bc9a7b5f0eb6ac3dc2c5b1c">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3aae75825385c7500d49540352783e10f42efaf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\rxandroid-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92b4c46bf73b1caff27f0ad2b73fcd5730fa37de">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\rxandroid-1.1.0_97fd23e8ade1c94e97f98257a591f1b266cdc8df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b55150f9b025eebdddb6426bb4e85e673af338a3">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\retrofit-2.0.1_a63ea3403f733c9413692872a29cbee07bc3a939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\wzh\DJI Android\FPVDemo_v1_170508\dJISDKLIB\build\intermediates\bundles\default\libs\okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58a92147e3365aa0039fc81a31b87f4957e6a555">
+        <dex dex="E:\wzh\DJI Android\FPVDemo_v1_170508\app\build\intermediates\transforms\dex\debug\folders\1000\8\okio-1.7.0_619acf0f67f54044364b728630900eb60e8d5b1b\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\wzh\\DJI Android\\FPVDemo_v1_170508\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "E:\\wzh\\DJI Android\\FPVDemo_v1_170508\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\wzh\\DJI Android\\FPVDemo_v1_170508\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "E:\\wzh\\DJI Android\\FPVDemo_v1_170508\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    }
+]
